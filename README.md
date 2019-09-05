@@ -1,5 +1,7 @@
 # 討論區
 
+[![Join the chat at https://gitter.im/compiler-f19/Discussion](https://badges.gitter.im/compiler-f19/Discussion.svg)](https://gitter.im/compiler-f19/Discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 這學期間遇到的所有問題都會被放在這個 Repo 的`Issues` 區域，如果想發問就直接開一個 `Issue` 出來吧!
 討論時可以直接標記同學的帳號 (比如 `@cmprfk1` ) 讓對方收到通知。也可以用團隊標記 `@2019_taching_team` 讓所有助教跟老師收到通知。
 
